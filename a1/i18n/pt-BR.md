@@ -1891,7 +1891,7 @@ ou *Configuração*
 ### Routes
 ou *Rotas*
 
-  - Separe as configurações das rotas em seus próprios arquivos. Os exemplos podem ser `app.route.js` para o módulo princial, e `admin.route.js` para o módulo `admin`. Mesmo nas menores aplicações, prefiro esta separação das demais configurações. Uma alternativa é um nome mais longo, como `admin.config.route.js`.
+  - Separe as configurações das rotas em seus próprios arquivos. Os exemplos podem ser `app.route.js` para o módulo principal, e `admin.route.js` para o módulo `admin`. Mesmo nas menores aplicações, prefiro esta separação das demais configurações. Uma alternativa é um nome mais longo, como `admin.config.route.js`.
 
 **[De volta ao topo](#tabela-de-conte%C3%BAdo)**
 
